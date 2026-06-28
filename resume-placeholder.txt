@@ -1,0 +1,3 @@
+Place your resume PDF here and name it `resume.pdf`.
+
+The portfolio download button links to `/resume.pdf`.
