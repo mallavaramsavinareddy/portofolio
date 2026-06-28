@@ -7,7 +7,7 @@ export const profile = {
   location: "Hyderabad, India",
   linkedin: "https://www.linkedin.com/in/m-savina-reddy-466055360/",
   github: "https://github.com/mallavaramsavinareddy",
-  resumeUrl: "/resume.pdf",
+  resumeUrl: "/portofolio/resume.pdf",
 };
 
 export const about = {
