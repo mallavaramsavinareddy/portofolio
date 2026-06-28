@@ -1,15 +1,15 @@
-{
+ {
   "name": "portfolio",
   "private": true,
   "version": "1.0.0",
   "type": "module",
-   "homepage": "https://mallavaramsavinareddy.github.io/portofolio", 
+  "homepage": "https://mallavaramsavinareddy.github.io/portofolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy":"gh-pages -d dist"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "react": "^18.3.1",
